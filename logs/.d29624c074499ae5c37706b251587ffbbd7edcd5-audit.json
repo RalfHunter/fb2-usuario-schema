@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "/home/silvio/fabrica-II/milestone-2/aluguel-de-equipamentos/logs/.d29624c074499ae5c37706b251587ffbbd7edcd5-audit.json",
+    "files": [
+        {
+            "date": 1747266654757,
+            "name": "/home/silvio/fabrica-II/milestone-2/aluguel-de-equipamentos/logs/combined-2025-05-14.log",
+            "hash": "b4d83c7c9f42a5738388f1e74230feff68818e9664af95f45ac15a29ae6e3084"
+        }
+    ],
+    "hashType": "sha256"
+}
